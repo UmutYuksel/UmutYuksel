@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm I'm Umut Yüksel</h1>
-<h3 align="center">A passionate Full-Stack & iOS Developer From Turkey</h3>
+<h3 align="center">A passionate Full-Stack From Turkey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umutyuksel" alt="umutyuksel" /></a> </p>
 
-- 🔭 I’m currently working on [Trakster](https://github.com/UmutYuksel/Trakster)
-
 - 🌱 I’m currently learning **.Net Core Html Css JavaScript Bootstarp**
-
-- 👨‍💻 All of my projects are available at [umutyuksel.com.tr](umutyuksel.com.tr)
 
 - 📫 How to reach me **umtyuksell@icloud.com**
 
