@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umutyuksel" alt="umutyuksel" /></a> </p>
 
-- 🌱 I’m currently learning **.Net Core Html Css JavaScript Bootstarp**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **umtyuksell@icloud.com**
 
